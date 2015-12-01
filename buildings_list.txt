@@ -1,0 +1,6 @@
+sprites/buildings/grass.png
+sprites/buildings/air_defense.png
+sprites/buildings/air_sweeper.png
+sprites/buildings/town_hall.png
+sprites/buildings/archer_tower.png
+sprites/buildings/cannon.png

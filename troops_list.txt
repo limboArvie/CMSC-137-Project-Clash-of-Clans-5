@@ -1,0 +1,7 @@
+sprites/troops/archer.png
+sprites/troops/barbarian.png
+sprites/troops/dragon.png
+sprites/troops/giant.png
+sprites/troops/hog_rider.png
+sprites/troops/wall_breaker.png
+sprites/troops/wizard.png
